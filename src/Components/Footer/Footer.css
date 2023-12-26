@@ -3,7 +3,10 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    gap: 50px;
+    gap: 15px;
+    height: 150px;
+    padding-bottom: 10px;
+    
 }
 
 .footer-logo{
@@ -52,6 +55,7 @@
     margin-bottom: 30px;
     color: #1a1a1a;
     font-size: 20px;
+    padding-bottom: 20px;
 
 }
 
