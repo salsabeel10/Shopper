@@ -1,6 +1,6 @@
 .shopcategory-banner{
     display: block;
-    margin: 30px auto;
+    margin: 50px auto;
     width: 82%;
 }
 
@@ -22,7 +22,7 @@
 }
 
 .shopcategory-products{
-    margin: 20px ;
+    margin: 20px 50px;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     row-gap: 80px;
@@ -32,7 +32,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: 150px auto;
+    margin: 35px auto;
     width: 233px;
     height: 69px;
     border-radius: 75px;
